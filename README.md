@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaMali918
-- 👀 I’m interested in new technologies related to AI/ML and gaming
+- 👀 I’m interested in new technologies related to AI/ML and Data Analytic.
 - 🌱 I’m currently learning LLM
 - 📫 How to reach me ...
 
